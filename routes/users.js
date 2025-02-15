@@ -4,11 +4,11 @@ const User = require('../models/user');
 
 // Hardcoded stadium data
 const STADIUMS = {
-    1: { name: "Wankhede Stadium", currentUsers: 0 },
-    2: { name: "Eden Gardens", currentUsers: 0 },
-    3: { name: "Chinnaswamy Stadium", currentUsers: 0 },
-    4: { name: "Feroz Shah Kotla", currentUsers: 0 },
-    5: { name: "Chepauk Stadium", currentUsers: 0 }
+    1: { name: "Narendra Modi Stadium, Ahmedabad", currentUsers: 0 },
+    2: { name: "Wankhede Stadium, Mumbai", currentUsers: 0 },
+    3: { name: "Chepauk (M. A. Chidambaram Stadium), Chennai", currentUsers: 0 },
+    4: { name: "Eden Gardens, Kolkata", currentUsers: 0 },
+    5: { name: "M. Chinnaswamy Stadium, Bengaluru", currentUsers: 0 }
 };
 
 // Register a new user
